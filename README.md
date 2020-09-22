@@ -5,11 +5,11 @@ De hoofdtaak van de OVD-G is het coördineren van de inzetten met meerdere Ambul
 ## Wanneer wordt de OVD-G ingezet
 
 - Bijzondere inzetten (BIJV: Ongeval met gevaarlijke stoffen)
-- Bij incidenten met waarbij 3 Ambulances of meer nodig zijn
+- Bij incidenten waarbij 3 Ambulances of meer nodig zijn
 - Ongevallen met eigen medewerkers
 - Ongeval met beknelling
 - Inzet Lifeliner (trauma helikopter)
-- Kan ook opgeroepen worden voor Veiligheidsregio's (BIJV: Evenementen, )
+- Kan ook opgeroepen worden voor Veiligheidsregio's (BIJV: Evenementen)
 - Kan daarnaast ook ingezet worden als First Responder
 
 ## Wat zit erin de auto van de OVD-G

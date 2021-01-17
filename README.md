@@ -31,4 +31,4 @@ De hoofdtaak van de OVD-G is het coördineren van de inzetten met meerdere Ambul
 ## Melding procedure OVD-G
 
 - Als de OVD-G niet als eerste ter plaatse komt, dan zijn de Ambulancier die als eerste ten plaatse is en de OVD-G leidend.
-- Als de OVD-G als eerste ter plaatse komt, is hij de enige lijdend.
+- Als de OVD-G als eerste ter plaatse komt, is hij de enige leidend.
